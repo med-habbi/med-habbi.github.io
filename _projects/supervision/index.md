@@ -1,6 +1,6 @@
 ---
 layout: post
-title: project title
+title: Supervision of a Sorting Station
 description:  short description of the project
 skills: 
 - skill 1
