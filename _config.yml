@@ -15,9 +15,10 @@ title: Mohammed HABBI's Portfolio # This is what shows up in the tab of the brow
 name: Mohammed Habbi
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  As a double-degree student at ENSEM Nancy and ENSEM Casablanca, I am on track to obtain an engineering
+  degree while holding a University Diploma of Technology. Passionate about embedded systems and digital systems,
+  I strive to acquire solid technical skills and a deep understanding of contemporary challenges in these fields. 
+  Curious and motivated, I am always looking for new opportunities to expand my knowledge and contribute to innovative projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/fd66880c-fd3d-4b32-b4e0-295c46bdc7d0.jpeg
