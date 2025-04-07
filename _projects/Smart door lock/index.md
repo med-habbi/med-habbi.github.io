@@ -12,5 +12,5 @@ skills:
 - ESP32
 - C#
 - Emdeed Systems
-main-image: /project.webp 
+main-image: /smdl.png
 ---
