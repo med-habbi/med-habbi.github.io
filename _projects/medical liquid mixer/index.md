@@ -7,5 +7,5 @@ skills:
 - ESP32
 - C#
 - Embdeed Systems
-main-image: /project.webp 
+main-image: /med.png
 ---
