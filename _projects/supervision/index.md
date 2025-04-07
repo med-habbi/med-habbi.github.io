@@ -6,5 +6,5 @@ skills:
 - API
 - LADDER
 - GRAFCET
-main-image: /project.webp 
+main-image: /sup.png
 ---
