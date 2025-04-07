@@ -6,5 +6,5 @@ skills:
 - Arduino
 - C#
 - CSS
-main-image: /project.webp 
+main-image: /radar.webp 
 ---
