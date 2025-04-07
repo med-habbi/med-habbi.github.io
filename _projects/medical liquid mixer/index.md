@@ -7,5 +7,6 @@ skills:
 - Arduino
 - ESP32
 - C#
+- Embdeed Systems
 main-image: /project.webp 
 ---
