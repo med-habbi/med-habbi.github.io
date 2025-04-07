@@ -7,5 +7,5 @@ skills:
 - C
 - Assembler language
 - Embdeed Systems
-main-image: /project.webp 
+main-image: /fc.png
 ---
