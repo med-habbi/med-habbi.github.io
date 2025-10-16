@@ -33,7 +33,7 @@ main-image: /smdl.png
       Le système utilise un microcontrôleur ESP32 qui gère simultanément quatre modes d'authentification. L'utilisateur peut déverrouiller la porte en saisissant un code PIN à 4 chiffres sur le clavier, en scannant son empreinte digitale enregistrée, en présentant sa carte RFID autorisée, ou en actionnant le bouton intérieur. Chaque tentative d'accès est validée par le microcontrôleur qui active le relais de déverrouillage en cas de succès. Le système affiche l'état de la serrure et les messages d'erreur sur l'écran LCD, tandis que les LEDs fournissent un retour visuel immédiat (vert pour accès autorisé, rouge pour refus).
     </p>
 
-    <h2 class="text-2xl font-semibold mb-2">⚙️ Processus de Développement</h2>
+  <h2 class="text-2xl font-semibold mb-2">⚙️ Processus de Développement</h2>
     <ol class="list-decimal ml-6 mb-4">
       <li>Analyse du cahier des charges et définition de l'architecture matérielle et logicielle du système.</li>
       <li>Conception du schéma électrique et sélection des composants adaptés aux contraintes de sécurité.</li>
@@ -44,7 +44,7 @@ main-image: /smdl.png
       <li>Développement d'une interface de configuration pour l'enregistrement des utilisateurs et la modification des codes.</li>
     </ol>
 
-    <h2 class="text-2xl font-semibold mb-2">📊 Résultats & Réalisations</h2>
+  <h2 class="text-2xl font-semibold mb-2">📊 Résultats & Réalisations</h2>
     <ul class="list-disc ml-6 mb-4">
       <li>Système fonctionnel offrant quatre méthodes d'authentification avec un taux de reconnaissance d'empreintes de 98%.</li>
       <li>Temps de réponse inférieur à 500ms pour toutes les méthodes d'authentification.</li>
