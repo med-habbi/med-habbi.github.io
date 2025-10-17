@@ -15,15 +15,11 @@ title: Portfolio de Mohammed HABBI # This is what shows up in the tab of the bro
 name: Mohammed Habbi
 headline: Infos
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  🎓 Étudiant en double diplôme Ingénieur Systèmes Numériques à l’ENSEM (Vandœuvre-lès-Nancy) et en Génie Électrique - Contrôle Automatique des Procédés Industriels (Casablanca), je me spécialise dans les systèmes embarqués, le contrôle commande, la supervision industrielle, ainsi que l’ingénierie des systèmes numériques.
-
-🔧 Mes expériences en stages, notamment en bureau d’études chez VENTEC (plans sur AUTOCAD, CANECO BT, DUALIX) et en recherche au CHU Hassan II (conception d’un mélangeur médical à base de moteurs pas à pas), m’ont permis d’appréhender des environnements techniques variés et m’ont confirmé ma passion pour l’innovation technologique appliquée.
-
-📚 Après un DUT en Génie Électrique et Électronique Industrielle, mes formations successives m’ont doté de solides compétences en automatique, informatique industrielle, modélisation, gestion de projet, programmation (Python, C#, VHDL) et électronique analogique et numérique, avec une bonne maîtrise des outils logiciels spécialisés.
-
-🌍 Engagé dans un parcours international, j’ambitionne de poursuivre et renforcer mes compétences en systèmes intelligents et ingénierie numérique.
-
-🚀 Je suis actuellement à la recherche d’une opportunité de stage d'une durée de 6 mois à partir de février dans les domaines des systèmes embarqués, contrôle industriel ou ingénierie numérique, afin de contribuer à des projets innovants tout en mettant en pratique mes compétences techniques et de gestion.
+    🎓 Étudiant en double diplôme Ingénieur Systèmes Numériques à l’ENSEM (Vandœuvre-lès-Nancy) et en Génie Électrique - Contrôle Automatique des Procédés Industriels (Casablanca), je me spécialise dans les systèmes embarqués, le contrôle commande, la supervision industrielle, ainsi que l’ingénierie des systèmes numériques.
+    🔧 Mes expériences en stages, notamment en bureau d’études chez VENTEC (plans sur AUTOCAD, CANECO BT, DUALIX) et en recherche au CHU Hassan II (conception d’un mélangeur médical à base de moteurs pas à pas), m’ont permis d’appréhender des environnements techniques variés et m’ont confirmé ma passion pour l’innovation technologique appliquée.
+    📚 Après un DUT en Génie Électrique et Électronique Industrielle, mes formations successives m’ont doté de solides compétences en automatique, informatique industrielle, modélisation, gestion de projet, programmation (Python, C#, VHDL) et électronique analogique et numérique, avec une bonne maîtrise des outils logiciels spécialisés.
+    🌍 Engagé dans un parcours international, j’ambitionne de poursuivre et renforcer mes compétences en systèmes intelligents et ingénierie numérique.
+    🚀 Je suis actuellement à la recherche d’une opportunité de stage d'une durée de 6 mois à partir de février dans les domaines des systèmes embarqués, contrôle industriel ou ingénierie numérique, afin de contribuer à des projets innovants tout en mettant en pratique mes compétences techniques et de gestion.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/fd66880c-fd3d-4b32-b4e0-295c46bdc7d0.jpeg
 
