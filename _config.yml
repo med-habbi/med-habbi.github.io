@@ -7,26 +7,30 @@
 
 # Main Page Setup
 
-title: Mohammed HABBI's Portfolio # This is what shows up in the tab of the browser
+title: Portfolio de Mohammed HABBI # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
 name: Mohammed Habbi
-headline: About me
+headline: Infos
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  As a double-degree student at ENSEM Nancy and ENSEM Casablanca, I am on track to obtain an engineering
-  degree while holding a University Diploma of Technology. Passionate about embedded systems and digital systems,
-  I strive to acquire solid technical skills and a deep understanding of contemporary challenges in these fields. 
-  Curious and motivated, I am always looking for new opportunities to expand my knowledge and contribute to innovative projects.
+  🎓 Étudiant en double diplôme Ingénieur Systèmes Numériques à l’ENSEM (Vandœuvre-lès-Nancy) et en Génie Électrique - Contrôle Automatique des Procédés Industriels (Casablanca), je me spécialise dans les systèmes embarqués, le contrôle commande, la supervision industrielle, ainsi que l’ingénierie des systèmes numériques.
 
+🔧 Mes expériences en stages, notamment en bureau d’études chez VENTEC (plans sur AUTOCAD, CANECO BT, DUALIX) et en recherche au CHU Hassan II (conception d’un mélangeur médical à base de moteurs pas à pas), m’ont permis d’appréhender des environnements techniques variés et m’ont confirmé ma passion pour l’innovation technologique appliquée.
+
+📚 Après un DUT en Génie Électrique et Électronique Industrielle, mes formations successives m’ont doté de solides compétences en automatique, informatique industrielle, modélisation, gestion de projet, programmation (Python, C#, VHDL) et électronique analogique et numérique, avec une bonne maîtrise des outils logiciels spécialisés.
+
+🌍 Engagé dans un parcours international, j’ambitionne de poursuivre et renforcer mes compétences en systèmes intelligents et ingénierie numérique.
+
+🚀 Je suis actuellement à la recherche d’une opportunité de stage d'une durée de 6 mois à partir de février dans les domaines des systèmes embarqués, contrôle industriel ou ingénierie numérique, afin de contribuer à des projets innovants tout en mettant en pratique mes compétences techniques et de gestion.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/fd66880c-fd3d-4b32-b4e0-295c46bdc7d0.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: ./assets/resume/resume1.pdf
+resume-url: https://drive.google.com/file/d/1V-qYbciDkvCQYsk0J_GnWGAzW6DjJ0g0/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
